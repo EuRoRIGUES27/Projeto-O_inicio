@@ -1,2 +1,2 @@
 # Projeto-O_inicio
-Projeto de exemplo  aula
+Projeto de exemplo em aula
